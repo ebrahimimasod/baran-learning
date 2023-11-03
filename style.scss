@@ -1,0 +1,25 @@
+.card {
+    background-color: orange;
+
+    &__title {
+        font-size: 35px;
+        color: red;
+    }
+
+    &__subtitle {
+        font-size: 20px;
+        color: blue;
+    }
+
+    &__box {
+        font-size: 20px;
+        color: blue;
+
+        &__text {
+            font-size: 20px;
+            color: blue;
+        }
+    }
+
+
+}
